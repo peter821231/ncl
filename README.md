@@ -1,10 +1,6 @@
 # ncl_mpas
-############################
-#Plotting tools (2019/2/12) #
-#Edit by C.-P. Shih         #
-#############################
+Plotting tools (2019/2/12)
 * = bug included
-#############################
 MPAS
 Up to date
 1.mpas_allvar
@@ -25,7 +21,6 @@ Under development or abandoned
 3.mpas_rain
 5.mpas_ensemble
 
-#############################
 DTCGSI
 Up to date
 1.gsi_gpsro_diag
@@ -34,7 +29,6 @@ Under development or abandoned
 1.gsi_increment
 2.gsi_enkf_diag
 
-#############################
 CWBGSI
 Up to date
 1.cwb_sig2p_inc
@@ -42,9 +36,8 @@ Under development or abandoned
 1.cwb_gps_position.ncl
 2.cwb_compare
 3.some code in hcy103 NETHD2... XD
-#############################
+
 OTHER
 Up to date
 1.plotFile.ncl
-#############################
 
