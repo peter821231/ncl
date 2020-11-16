@@ -1,4 +1,4 @@
-# ncl_mpas
+# ncl
 Plotting tools (2019/2/12)
 * = bug included
 
